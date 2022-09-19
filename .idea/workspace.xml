@@ -6,8 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ea95008-e3ac-4acb-a139-eebf9838aae9" name="Changes" comment="Commit 2">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/FaellesRepo_jar.xml" afterDir="false" />
+    <list default="true" id="8ea95008-e3ac-4acb-a139-eebf9838aae9" name="Changes" comment="runable Jar-file has been created with Main is main class">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663591214884</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="runable Jar-file has been created with Main is main class">
+      <created>1663592969820</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663592969820</updated>
+    </task>
+    <task id="LOCAL-00006" summary="runable Jar-file has been created with Main is main class">
+      <created>1663593031418</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663593031418</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +143,7 @@
     <MESSAGE value="First edit" />
     <MESSAGE value="test1" />
     <MESSAGE value="Stavefejl på højt plan rettet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stavefejl på højt plan rettet" />
+    <MESSAGE value="runable Jar-file has been created with Main is main class" />
+    <option name="LAST_COMMIT_MESSAGE" value="runable Jar-file has been created with Main is main class" />
   </component>
 </project>
