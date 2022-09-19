@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FaellesRepo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FaellesRepo_jar</output-path>
+    <root id="archive" name="FaellesRepo.jar">
+      <element id="module-output" name="FaellesRepo" />
+    </root>
+  </artifact>
+</component>
