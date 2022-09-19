@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ea95008-e3ac-4acb-a139-eebf9838aae9" name="Changes" comment="Stavefejl på højt plan rettet">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="8ea95008-e3ac-4acb-a139-eebf9838aae9" name="Changes" comment="Commit 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +101,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/test" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
