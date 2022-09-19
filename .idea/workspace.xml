@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ea95008-e3ac-4acb-a139-eebf9838aae9" name="Changes" comment="Created">
+    <list default="true" id="8ea95008-e3ac-4acb-a139-eebf9838aae9" name="Changes" comment="First edit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663588915000</updated>
-      <workItem from="1663588916545" duration="709000" />
+      <workItem from="1663588916545" duration="1582000" />
     </task>
     <task id="LOCAL-00001" summary="Created">
       <created>1663588963590</created>
@@ -46,7 +45,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663588963590</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First edit">
+      <created>1663589644677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663589644677</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created" />
+    <MESSAGE value="First edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First edit" />
   </component>
 </project>
